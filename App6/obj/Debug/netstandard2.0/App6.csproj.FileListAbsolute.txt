@@ -1,0 +1,17 @@
+E:\App6\App6\obj\Debug\netstandard2.0\App6.csproj.AssemblyReference.cache
+E:\App6\App6\obj\Debug\netstandard2.0\App6.GeneratedMSBuildEditorConfig.editorconfig
+E:\App6\App6\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\App6\App6\obj\Debug\netstandard2.0\App6.AssemblyInfoInputs.cache
+E:\App6\App6\obj\Debug\netstandard2.0\App6.AssemblyInfo.cs
+E:\App6\App6\obj\Debug\netstandard2.0\App6.csproj.CoreCompileInputs.cache
+E:\App6\App6\bin\Debug\netstandard2.0\App6.deps.json
+E:\App6\App6\bin\Debug\netstandard2.0\App6.dll
+E:\App6\App6\bin\Debug\netstandard2.0\ref\App6.dll
+E:\App6\App6\bin\Debug\netstandard2.0\App6.pdb
+E:\App6\App6\obj\Debug\netstandard2.0\IntermediatePage.xaml.g.cs
+E:\App6\App6\obj\Debug\netstandard2.0\Login.xaml.g.cs
+E:\App6\App6\obj\Debug\netstandard2.0\MainMenu.xaml.g.cs
+E:\App6\App6\obj\Debug\netstandard2.0\XamlC.stamp
+E:\App6\App6\obj\Debug\netstandard2.0\App6.dll
+E:\App6\App6\obj\Debug\netstandard2.0\ref\App6.dll
+E:\App6\App6\obj\Debug\netstandard2.0\App6.pdb

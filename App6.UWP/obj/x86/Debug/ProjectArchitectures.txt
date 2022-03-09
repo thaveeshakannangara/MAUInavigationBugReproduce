@@ -1,0 +1,1 @@
+E:\App6\App6.UWP\App6.UWP.csproj;x86
